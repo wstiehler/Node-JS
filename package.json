@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "0.1.0",
+  "description": "project node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wstiehler/Node-JS.git"
+  },
+  "author": "William Villani Stiehler",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wstiehler/Node-JS/issues"
+  },
+  "homepage": "https://github.com/wstiehler/Node-JS#readme"
+}
